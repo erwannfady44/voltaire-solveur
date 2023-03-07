@@ -1,0 +1,600 @@
+A l'envi ->  <B> A qui mieux mieux </B> 
+Aberrant ->  <B> Insense </B> 
+Aguerri ->  <B> Experimente </B> 
+Agreger ->  <B> Reunir </B> 
+Apologie ->  <B> Commentaire tres elogieux </B> 
+Antipode ->  <B> Oppose </B> 
+Avaliser ->  <B> Cautionner </B> 
+Avanie ->  <B> Affront </B> 
+Circonscrire ->  <B> Delimiter </B> 
+Chronique ->  <B> Continuel ou intermittent </B> 
+Concourir a ->  <B> Contribuer </B> 
+Condescendant ->  <B> Hautain </B> 
+Declaratif ->  <B> Affirmatif </B> 
+Decliner ->  <B> Refuser </B> 
+Deroger a ->  <B> Enfreindre </B> 
+Desappointement ->  <B> Deception </B> 
+Diligenter ->  <B> Activer </B> 
+Diplomatie ->  <B> Tact </B> 
+Echelonner ->  <B> Etaler </B> 
+Echeveau ->  <B> Dedale </B> 
+Emphatique ->  <B> Empreint de Solennite </B> 
+Etalonner ->  <B> Calibrer </B> 
+Feindre ->  <B> Simuler </B> 
+Heresie ->  <B> Sacrilege </B> 
+Incidence ->  <B> Consequence </B> 
+Instance ->  <B> Organisme </B> 
+Lesiner ->  <B> Economiser </B> 
+Metaphysique ->  <B> Philosophique </B> 
+Oberer ->  <B> Compromettre </B> 
+Oxymore ->  <B> Contraste </B> 
+Abhorrer ->  <B> Detester </B> 
+Ajourne ->  <B> Reporter </B> 
+Appetence ->  <B> Envie </B> 
+Avenant ->  <B> Ajout </B> 
+Circonspect ->  <B> Prudent </B> 
+Conjecture ->  <B> Hypothese </B> 
+Deference ->  <B> Respect </B> 
+Desavouer ->  <B> Desapprouver </B> 
+Discredit ->  <B> Deconsideration </B> 
+Eclectique ->  <B> Qui apprecie des choses ... </B> 
+Ethique ->  <B> Morale </B> 
+Empiriquement ->  <B> En Experimentant </B> 
+Flagornerie ->  <B> Flatterie </B> 
+Heteroclite ->  <B> Varie </B> 
+Implanter ->  <B> Etablir </B> 
+Inclination ->  <B> Penchant </B> 
+Interceder ->  <B> Intervenir </B> 
+Leurrer ->  <B> Tromper </B> 
+Mievre ->  <B> Fade </B> 
+Obsequieux ->  <B> Flatteur </B> 
+Palabres ->  <B> Discussions </B> 
+Perorer ->  <B> Discourir avec pretension </B> 
+Predispose ->  <B> Qui a des aptitudes ... </B> 
+Preempter ->  <B> Exiger d'etre prioritaire </B> 
+Proroger ->  <B> Prolonger </B> 
+Recriminer ->  <B> Critiquer </B> 
+Salubrite ->  <B> Hygiene </B> 
+Speculer sur ->  <B> Compter dessus pour reussir </B> 
+Surseoir ->  <B> Reporter </B> 
+Usurper ->  <B> S'approprier </B> 
+Acme ->  <B> Point culminant </B> 
+Alacrite ->  <B> Gaiete </B> 
+Approbation ->  <B> Accord </B> 
+Avenement ->  <B> Arrivee </B> 
+Circulaire ->  <B> Note ecrite </B> 
+Conjoncture ->  <B> Circonstances </B> 
+Defiance ->  <B> Mefiance </B> 
+Desinvolture ->  <B> Laisser-aller </B> 
+Discriminant ->  <B> Differenciant </B> 
+Ecosysteme ->  <B> Environnement </B> 
+Emulation ->  <B> Saine competition </B> 
+Euphemisme ->  <B> Verite attenuee </B> 
+Florissant ->  <B> Prospere </B> 
+Heuristique ->  <B> Intuitif </B> 
+Incongru ->  <B> Inconvenant </B> 
+Intimer ->  <B> Enjoindre </B> 
+Limogeage ->  <B> Licenciement </B> 
+Mimetisme ->  <B> Imitation </B> 
+Obsolete ->  <B> Qui est depasse </B> 
+Palliatif ->  <B> Solution Provisoire </B> 
+Persuasif ->  <B> Convaincant </B> 
+Pluralisme ->  <B> Qui admet des elements ... </B> 
+Preeminence ->  <B> Superiorite </B> 
+Prosaique ->  <B> Terre a terre </B> 
+Recrudescence ->  <B> Augmentation </B> 
+Sanctuariser ->  <B> Proteger </B> 
+Serendipte ->  <B> Art de faire une decouverte ... </B> 
+Standardiser ->  <B> Uniformiser </B> 
+Symptomatique ->  <B> Significatif </B> 
+Utopique ->  <B> Ideal mais irrealisable </B> 
+Abnegation ->  <B> Devouement </B> 
+Aleatoire ->  <B> Incertain </B> 
+Anthologie ->  <B> Recueil de morceaux choisis </B> 
+Arbitrairement ->  <B> Sans tenir compte d'autres ... </B> 
+Averer ->  <B> Se reveler vrai </B> 
+Clause ->  <B> Disposition </B> 
+Consensuel ->  <B> Accepte par tous </B> 
+Deflorer ->  <B> Gacher le suspens </B> 
+Desobligeant ->  <B> Blessant </B> 
+Disert ->  <B> Eloquent </B> 
+Ecreter ->  <B> Enlever ce qui depasse </B> 
+Encenser ->  <B> Louer </B> 
+Evangeliser ->  <B> Convertir </B> 
+Flouer ->  <B> Tromper </B> 
+Hiatus ->  <B> Decalage </B> 
+Inconsequent ->  <B> Irreflechi </B> 
+Intransigeant ->  <B> Intraitable </B> 
+Liquidites ->  <B> Argent </B> 
+Minutie ->  <B> Application </B> 
+Obtemperer ->  <B> Obeir </B> 
+Paradoxe ->  <B> Contradiction </B> 
+Philanthrope ->  <B> Altruiste </B> 
+Prehension ->  <B> Prise </B> 
+Proselystisme ->  <B> Zele a convertir </B> 
+Recurrent ->  <B> Qui revient frequemment </B> 
+Regalien ->  <B> Souverain </B> 
+Statuer ->  <B> Decider </B> 
+Synergie ->  <B> Association </B> 
+S'arroger ->  <B> S'attribuer </B> 
+Vacant ->  <B> Libre </B> 
+Abonder ->  <B> Approuver pleinement </B> 
+Aliener ->  <B> Attirer l'hostilite </B> 
+Arborer ->  <B> Afficher </B> 
+Arborescence ->  <B> Classement en branches </B> 
+Ayant droit ->  <B> Beneficiaire </B> 
+Clivant ->  <B> Qui divise un groupe </B> 
+Consortium ->  <B> Groupement </B> 
+Degressif ->  <B> Decroissant </B> 
+Dessein ->  <B> Projet </B> 
+Dispendieux ->  <B> Onereux </B> 
+Ecueil ->  <B> Obstacle </B> 
+Endemique ->  <B> Qui est propre a </B> 
+Evocation ->  <B> Mention </B> 
+Fluctuation ->  <B> Variation </B> 
+Grief ->  <B> Motif de plainte </B> 
+Hierarchiser ->  <B> Organiser </B> 
+Intrinsequement ->  <B> Par essence </B> 
+Litige ->  <B> Conflit </B> 
+Misogynie ->  <B> Machisme </B> 
+Occulter ->  <B> Cacher </B> 
+Paraphraser ->  <B> Faire un commentaire qui n'apporte rien </B> 
+Persona non grata ->  <B> Personne qui n'est pas pas la bienvenue </B> 
+Pis-aller ->  <B> Solution de fortune </B> 
+Prejudice ->  <B> Tort </B> 
+Protagoniste ->  <B> Personne concernee </B> 
+Recursiement ->  <B> de maniere repetee </B> 
+Schisme ->  <B> Separation </B> 
+Statu quo ->  <B> Situation qui ne progresse pas </B> 
+Synthetique ->  <B> Concis et precis </B> 
+Vacuite ->  <B> Vide </B> 
+Ad hominen ->  <B> Personnel </B> 
+Abroger ->  <B> Abolir </B> 
+Alinea ->  <B> Paragraphe </B> 
+Arcanes ->  <B> Mystere </B> 
+Beant ->  <B> Grand ouverte </B> 
+Coalition ->  <B> Alliance </B> 
+Congruent ->  <B> Qui s'applique bien </B> 
+Conspuer ->  <B> Huer </B> 
+Delegation ->  <B> Transmission temporaire ... </B> 
+Destituer ->  <B> Demettre </B> 
+Disseminer ->  <B> Disperser </B> 
+Edifiant ->  <B> Instructif </B> 
+Endogene ->  <B> Interne a un organisme </B> 
+Execrer ->  <B> Avoir en horreur </B> 
+Homogene ->  <B> Harmonieux </B> 
+Indicible ->  <B> Inexplimable </B> 
+Introverti ->  <B> A l'attitude reservee </B> 
+Litteralement ->  <B> Absolument </B> 
+Modalite ->  <B> Disposition qui precise </B> 
+Occurrence ->  <B> Cas </B> 
+Parcellaire ->  <B> Fragmentaire </B> 
+Plagiat ->  <B> Copie illegale ... </B> 
+Premices ->  <B> Commencement </B> 
+Proteiforme ->  <B> Changeant </B> 
+Redondant ->  <B> Superflu </B> 
+Se departir ->  <B> Renoncer </B> 
+Se formaliser ->  <B> Etre choque </B> 
+Stoique ->  <B> Inebranlable </B> 
+Systematique ->  <B> Invariable </B> 
+Vecteur ->  <B> Ce qui transmet </B> 
+Avec parcimonie ->  <B> Au compte-goutte </B> 
+Abscons ->  <B> Incomprehensible </B> 
+Affilie ->  <B> Adherent </B> 
+Allegation ->  <B> Affirmation </B> 
+Archaique ->  <B> Desuet </B> 
+Bienseance ->  <B> Savoir-vivre </B> 
+Coercitif ->  <B> Contraignant </B> 
+Contentieux ->  <B> Ensemble des litiges </B> 
+Deletere ->  <B> Nuisible </B> 
+Desuetude ->  <B> Obsolescence </B> 
+Dissuader ->  <B> Decourager </B> 
+Elaguer ->  <B> Couper </B> 
+Engouement ->  <B> Enthousiasme </B> 
+Exegese ->  <B> Analyse tres fouillee </B> 
+Fortuitement ->  <B> Par hasard </B> 
+Homologuer ->  <B> Approuver </B> 
+Indigeant ->  <B> Pauvre </B> 
+Invectiver ->  <B> Injurier </B> 
+Logorrhee ->  <B> Long discours creux </B> 
+Modique ->  <B> Insignifiant </B> 
+Octroyer ->  <B> Donner </B> 
+Paradigme ->  <B> Referentiel </B> 
+Plaider ->  <B> Defendre </B> 
+Preposer ->  <B> Charger </B> 
+Protocole ->  <B> Regle </B> 
+Se premunir ->  <B> Se proteger </B> 
+Structurer ->  <B> Organiser </B> 
+Systemique ->  <B> Organique </B> 
+Regorger ->  <B> Deborder </B> 
+Velleite ->  <B> Envie </B> 
+A fortiori ->  <B> A plus forte raison </B> 
+Abyssal ->  <B> Tres profond </B> 
+Allocution ->  <B> Discours </B> 
+Archetype ->  <B> Modele </B> 
+Bienveillance ->  <B> Bonte </B> 
+Cohesion ->  <B> Solidarite </B> 
+Contractuellement ->  <B> Par obligation ... </B> 
+Deliberer ->  <B> Discuter </B> 
+Determinisme ->  <B> Phenomene dont l'issue ... </B> 
+Dialectique ->  <B> Art de l'argumentation </B> 
+Dithyrambique ->  <B> Elogieux </B> 
+Enjoindre ->  <B> Ordonner </B> 
+Eligible ->  <B> Qui peut beneficier ... </B> 
+Exhorter ->  <B> Inciter </B> 
+Homonyme ->  <B> Qui a le meme nom </B> 
+Indubitablement ->  <B> Assurement </B> 
+Invoquer ->  <B> Arguer </B> 
+Lucratif ->  <B> Rentable </B> 
+Moduler ->  <B> Adapter </B> 
+Officieusement ->  <B> En prive </B> 
+Parite ->  <B> Egalite entre les sexes </B> 
+Plebisciter ->  <B> Choisir avec engouement </B> 
+Pre carre ->  <B> Territoire </B> 
+Prerequis ->  <B> Condition </B> 
+Prototype ->  <B> Premier examplaire ... </B> 
+Rehabilitation ->  <B> Remise en etat </B> 
+Se prevaloir ->  <B> S'enorgueillir </B> 
+Subjectif ->  <B> Partial </B> 
+Tacite ->  <B> Inexprime </B> 
+Velocite ->  <B> Rapidite </B> 
+Accessoiriser ->  <B> Agrementer </B> 
+Alchimie ->  <B> Brassage harmonieux </B> 
+Alterer ->  <B> Degrader </B> 
+Arguer ->  <B> Pretexter </B> 
+Binaire ->  <B> Qui offre deux solutions </B> 
+Collegialement ->  <B> Collectivement </B> 
+Controverse ->  <B> Polemique </B> 
+Delictueux ->  <B> Qui constitue une faute ... </B> 
+Deliquescence ->  <B> Forte degradation </B> 
+Deliter ->  <B> Decomposer </B> 
+Divergence ->  <B> Desaccord </B> 
+Devolu ->  <B> Attribue </B> 
+Elite ->  <B> Fine fleur </B> 
+Enteriner ->  <B> Valider </B> 
+Exhumer ->  <B> Deterrer </B> 
+Fustiger ->  <B> Critiquer vivement </B> 
+Humblement ->  <B> Modestement </B> 
+Irrefutablement ->  <B> Incontestablement </B> 
+Indument ->  <B> A tort </B> 
+Magnanime ->  <B> Clement </B> 
+Monetiser ->  <B> Monnayer </B> 
+Paroxysme ->  <B> Comble </B> 
+Pleonasme ->  <B> Repetition fautive </B> 
+Prerogative ->  <B> Avantage </B> 
+Pugnace ->  <B> Combatif </B> 
+Se referer ->  <B> Se reporter </B> 
+Sublimer ->  <B> Embellir </B> 
+Reiterer ->  <B> Refaire la meme chose </B> 
+Tautologie ->  <B> Redondance </B> 
+Ventiler ->  <B> Repartir </B> 
+Absoudre ->  <B> Pardonner </B> 
+Accroitre ->  <B> Augmenter </B> 
+Altruisme ->  <B> Bonte </B> 
+Amalgame ->  <B> Melange d'elements ... </B> 
+Arriviste ->  <B> Opportuniste </B> 
+Blamer ->  <B> Condamner moralement </B> 
+Collusion ->  <B> Connivence </B> 
+Convergence ->  <B> Action de tendre vers ... </B> 
+Dematerialiser ->  <B> Numeriser </B> 
+Devoyer ->  <B> Pervertir </B> 
+Doctrine ->  <B> Ideologie </B> 
+Eloquence ->  <B> Art du discours </B> 
+Entremise ->  <B> Intervention de mediation </B> 
+Expectative ->  <B> Attente </B> 
+Gageure ->  <B> Deli </B> 
+Hypothetique ->  <B> Incertain </B> 
+Ineluctablement ->  <B> Fatalement </B> 
+Irreverencieux ->  <B> Insolent </B> 
+Malencontreusement ->  <B> Malheureusement </B> 
+Monolithique ->  <B> D'un seul bloc </B> 
+Omettre ->  <B> Oublier </B> 
+Partial ->  <B> Injuste </B> 
+Plethorique ->  <B> Abondant </B> 
+Presomptueux ->  <B> Pretentieux </B> 
+Putatif ->  <B> Presume </B> 
+Remedier ->  <B> Compenser </B> 
+Sedentaire ->  <B> Qui ne se deplace pas </B> 
+Subliminal ->  <B> Subconscient </B> 
+Taxinomie ->  <B> Classification </B> 
+Vergogne ->  <B> Scrupule </B> 
+Accule ->  <B> Contraint </B> 
+Ambigu ->  <B> Dont l'interpretation est ... </B> 
+Assentiment ->  <B> Approbation </B> 
+Autonome ->  <B> Independant </B> 
+Caduc ->  <B> Perime </B> 
+Comminatoire ->  <B> Menacant </B> 
+Cooptation ->  <B> Designation par les membres ... </B> 
+Demeriter ->  <B> Se rendre indigne </B> 
+Diametralement ->  <B> Completement </B> 
+Dogmatique ->  <B> Qui n'admet pas la contradiction </B> 
+Elucbration ->  <B> Divagation </B> 
+Entrevue ->  <B> Entretien </B> 
+Expedient ->  <B> Astuce qui ne regle pas ... </B> 
+Galvaniser ->  <B> Enthousismer </B> 
+Idoine ->  <B> Approprie </B> 
+Inertie ->  <B> Sans energie </B> 
+Irrevocablement ->  <B> Definitivement </B> 
+Mandataire ->  <B> Representant </B> 
+Moratoire ->  <B> Suspension d'un projet </B> 
+Omnipotent ->  <B> Tout-puissant </B> 
+Patir ->  <B> Souffrir </B> 
+Prisme ->  <B> Angle different </B> 
+Poncif ->  <B> Cliche </B> 
+Quidam ->  <B> Individu </B> 
+Requerir ->  <B> Necessiter </B> 
+Se focaliser ->  <B> Concentrer son attention </B> 
+Semantique ->  <B> Qui a trait au sens des mots </B> 
+Stricto sensu ->  <B> Au sens strict </B> 
+Subodorer ->  <B> Pressentir </B> 
+Versatile ->  <B> Inconstant </B> 
+Achopper ->  <B> Buter </B> 
+Ambivalence ->  <B> Ambiguite </B> 
+Assigner ->  <B> Attribuer </B> 
+Candeur ->  <B> Naivete </B> 
+Cautionner ->  <B> Approuver </B> 
+Competitif ->  <B> Concurrentiel </B> 
+Corollaire ->  <B> Consequence </B> 
+Demystifier ->  <B> Lever le mystere </B> 
+Diatribe ->  <B> Critique violente </B> 
+Disruptif ->  <B> Qui change la donne </B> 
+Doleances ->  <B> Reclamations </B> 
+Eluder ->  <B> Esquiver </B> 
+Epars ->  <B> Eparpille </B> 
+Exponentiel ->  <B> De plus en plus fort </B> 
+Galvaude ->  <B> Deprecie </B> 
+Illicite ->  <B> Illegal </B> 
+Inextinguible ->  <B> Inapaisable </B> 
+Investiture ->  <B> Prise de fonction ... </B> 
+Iteratif ->  <B> Qui se produit de ... </B> 
+Manicheen ->  <B> Qui range tout dans ... </B> 
+Mutation ->  <B> Changement </B> 
+Omnipresent ->  <B> Qui est partout </B> 
+Pecuniaire ->  <B> Financier </B> 
+Proactif ->  <B> Qui anticipe </B> 
+Quintessence ->  <B> Partie essentielle </B> 
+Resilier ->  <B> Annuler </B> 
+Seminaire ->  <B> Reunion </B> 
+Subordination ->  <B> Dependance </B> 
+Temporiser ->  <B> Retarder </B> 
+Vertueux ->  <B> Positif </B> 
+Acrimonie ->  <B> Agressivite </B> 
+Amender ->  <B> Ameliorer </B> 
+Assujettissement ->  <B> Soumission </B> 
+Canonique ->  <B> Qui pose une regle </B> 
+Compulser ->  <B> Consulter </B> 
+Conglomerat ->  <B> Regroupement d'entreprises </B> 
+Corroborer ->  <B> Confirmer </B> 
+Denigrer ->  <B> Discrediter </B> 
+Dichotomie ->  <B> Division </B> 
+Doxa ->  <B> Opinion commune </B> 
+En dilettante ->  <B> En amateur </B> 
+Emargement ->  <B> Apposition d'une mention </B> 
+Eponyme ->  <B> Qui donne son nom </B> 
+Expurger ->  <B> Eliminer </B> 
+Generique ->  <B> Commun </B> 
+Impassible ->  <B> Imperturbable </B> 
+Infeode ->  <B> Soumis </B> 
+Jalon ->  <B> Repere </B> 
+Manifeste ->  <B> Declaration </B> 
+Mutisme ->  <B> Silence d'un individu </B> 
+Omniscient ->  <B> Savant </B> 
+Pejoratif ->  <B> Devalorisant </B> 
+Pontifier ->  <B> Parler de maniere ... </B> 
+Probatoire ->  <B> Qui permet de prouver </B> 
+Radier ->  <B> Effacer </B> 
+Restaurer ->  <B> Reparer </B> 
+Sempiternel ->  <B> Eternel </B> 
+Subrepticement ->  <B> En cachette </B> 
+Tendancieux ->  <B> Oriente </B> 
+Veto ->  <B> Refus </B> 
+Ad hoc ->  <B> Adequat </B> 
+Amene ->  <B> Aimable </B> 
+Astreindre ->  <B> Obliger </B> 
+Carence ->  <B> Manque </B> 
+Compulsivement ->  <B> Irresistiblement </B> 
+Contingences ->  <B> Choses de peu d'importance </B> 
+Corrompre ->  <B> Pervertir </B> 
+Denominateur ->  <B> Point commun </B> 
+Didactique ->  <B> Pedagogique </B> 
+Drastique ->  <B> Radical </B> 
+Embargo ->  <B> Blocus </B> 
+Epistolaire ->  <B> Par echange de courriers </B> 
+Equanimite ->  <B> Serenite </B> 
+Exsangue ->  <B> Vide de sa substance </B> 
+Genese ->  <B> Creation </B> 
+Impavide ->  <B> Sans crainte </B> 
+Infirmer ->  <B> Invalider </B> 
+Jurisprudence ->  <B> Precedent qui fait loi </B> 
+Mansuetude ->  <B> Indulgence </B> 
+Mutualiser ->  <B> Regrouper </B> 
+Onirique ->  <B> Imaginaire </B> 
+Pensum ->  <B> Corvee </B> 
+Postulat ->  <B> Principe </B> 
+Probite ->  <B> Honnetete </B> 
+Ratifier ->  <B> Approuver </B> 
+Retif ->  <B> Rebelle </B> 
+Subsequemment ->  <B> En consequence </B> 
+S'enquerir ->  <B> Se renseigner </B> 
+Tergiverser ->  <B> Recourir a des faux-fuyants </B> 
+Vicie ->  <B> Pollue </B> 
+Adjacent ->  <B> Voisin </B> 
+Analogue ->  <B> Semblable </B> 
+Atermoyer ->  <B> Differer </B> 
+Caritatif ->  <B> Charitable </B> 
+Creance ->  <B> Droit a exiger des sommes </B> 
+Conceder ->  <B> Admettre </B> 
+Denoter ->  <B> Indiquer par une caracteristique </B> 
+Diffamatoire ->  <B> Calomnieux </B> 
+Dissident ->  <B> En desaccord </B> 
+Dubitatif ->  <B> Sceptique </B> 
+Emblematique ->  <B> Symbolique </B> 
+Ergonomique ->  <B> Adapte aux besoins des ... </B> 
+Extrapolation ->  <B> Generalisation a partir ... </B> 
+Faire-valoir ->  <B> Personne qui met une autre ... </B> 
+Grandiloquent ->  <B> Qui s'exprime pompeusement </B> 
+Implicitement ->  <B> De maniere sous-entendue </B> 
+Informel ->  <B> Decontracte </B> 
+Kyrielle ->  <B> Multitude </B> 
+Marginaliser ->  <B> Exclure </B> 
+Mythifier ->  <B> Idealiser </B> 
+Opiniatre ->  <B> Obstine </B> 
+Peregrination ->  <B> Deplacements incessants </B> 
+Postuler ->  <B> Candidater </B> 
+Procrastination ->  <B> Tendance a toujours reporter </B> 
+Ratio ->  <B> Coefficient </B> 
+Retoquer ->  <B> Rejeter </B> 
+Sentencieux ->  <B> Solonnel </B> 
+Subside ->  <B> Somme donnee ou pretee </B> 
+Transcender ->  <B> Depasser </B> 
+Vicissitudes ->  <B> Turbulences </B> 
+Adouber ->  <B> Legitimer dans sa fonction </B> 
+Annihiler ->  <B> Aneantir </B> 
+Atypique ->  <B> Inhabituel </B> 
+Cartesien ->  <B> Logique </B> 
+Charisme ->  <B> Ascendant naturel </B> 
+Concession ->  <B> Renoncement </B> 
+Deontologique ->  <B> Ethique </B> 
+Debonnaire ->  <B> Accommodant </B> 
+Digression ->  <B> Fait de s'ecarter du sujet </B> 
+Dupe ->  <B> Credule </B> 
+Emergent ->  <B> Montant </B> 
+Ergoter ->  <B> Pinailler </B> 
+Faconde ->  <B> Grande facilite a parler </B> 
+Gratifiant ->  <B> Valorisant </B> 
+Imponderable ->  <B> Imprevu </B> 
+Inherent ->  <B> Indissociable </B> 
+Laconique ->  <B> Qui s'exprime en peu de mots </B> 
+Lapidaire ->  <B> Dune concision brutale </B> 
+Meandre ->  <B> Detour </B> 
+Nebuleux ->  <B> Confus </B> 
+Opportun ->  <B> Propice </B> 
+Peremptoire ->  <B> Categorique </B> 
+Pourvoir ->  <B> Fournir </B> 
+Prodiguer ->  <B> Donner </B> 
+Rationalisation ->  <B> Optimisation </B> 
+Retractation ->  <B> Annulation d'un engagement </B> 
+Sibyllin ->  <B> Enigmatique </B> 
+Substanciel ->  <B> Considerable </B> 
+Transiger ->  <B> Faire des concessions </B> 
+Vindicatif ->  <B> Rancunier </B> 
+Afferent (a) ->  <B> Relatif (a) </B> 
+Antagonisme ->  <B> Opposition </B> 
+Augure ->  <B> Presage </B> 
+Casus belli ->  <B> Motif de conflit </B> 
+Concilier ->  <B> Accorder </B> 
+Debouter ->  <B> Rejeter </B> 
+Depositaire ->  <B> Qui recoit et grade </B> 
+Dilatoire ->  <B> Qui cherche a gagner du temps </B> 
+Ebaucher ->  <B> Esquisser </B> 
+Eminemment ->  <B> Extremement </B> 
+Ersatz ->  <B> Substitut de moindre qualite </B> 
+Factice ->  <B> Faux </B> 
+Gregaire ->  <B> Qui suit le groupe </B> 
+Imprecation ->  <B> Malediction </B> 
+Inhibant ->  <B> Paralysant </B> 
+Lapalissade ->  <B> Evidence </B> 
+Litanie ->  <B> Enumeration ennuyeuse </B> 
+Mandater ->  <B> Investir quelqu'un d'un ... </B> 
+Mecene ->  <B> Bienfaiteur </B> 
+Nonobstant ->  <B> Malgre </B> 
+Opacite ->  <B> Manque de transparence </B> 
+Opprobre ->  <B> Honte </B> 
+Perenne ->  <B> Durable </B> 
+Pragmatique ->  <B> Adapte a l'action concrete </B> 
+Profane ->  <B> Non-initie </B> 
+Retroactivement ->  <B> En s'appliquant a des faits ... </B> 
+Sine qua non ->  <B> Indispensable </B> 
+Substrat ->  <B> Fondement </B> 
+Translation ->  <B> Transfert </B> 
+Vindicte ->  <B> Vengeance </B> 
+Affligeant ->  <B> Consternant </B> 
+Antepenultieme ->  <B> Avant-avant-dernier </B> 
+Austere ->  <B> Sans saveur </B> 
+Autodidacte ->  <B> Qui se forme seul </B> 
+Celerite ->  <B> Rapidite </B> 
+Cinematique ->  <B> Enchainement des mouvements </B> 
+Concis ->  <B> Bref </B> 
+Decati ->  <B> Defraichi </B> 
+Deprecier ->  <B> Devaloriser </B> 
+Emolument ->  <B> Salaire </B> 
+Esclandre ->  <B> Scandale </B> 
+Factuel ->  <B> Avere par les faits </B> 
+Habilitation ->  <B> Autorisation </B> 
+Inique ->  <B> Injuste </B> 
+Imputer ->  <B> Attribuer </B> 
+Legislation ->  <B> Loi </B> 
+Liminaire ->  <B> Place en tete d'un texte </B> 
+Mediateur ->  <B> Conciliateur </B> 
+Modus vivendi ->  <B> Accord permettant de vivre ... </B> 
+Normatif ->  <B> Qui donne des regles </B> 
+Osmose ->  <B> Interpenetration </B> 
+Pericliter ->  <B> Decliner </B> 
+Praticien ->  <B> Qui exerce sa profession </B> 
+Proferer ->  <B> Exprimer a voix haute </B> 
+Proner ->  <B> Vanter les qualites </B> 
+Recipiendaire ->  <B> Beneficiaire </B> 
+Sacerdoce ->  <B> Vocation </B> 
+Solvable ->  <B> Qui a les moyens de payer ... </B> 
+Transverse ->  <B> Recoupant plusieurs domaines </B> 
+Volatil ->  <B> Qui tend a se disperser </B> 
+Acception ->  <B> Signification </B> 
+Agencer ->  <B> Ordonner </B> 
+Antinomie ->  <B> Contradiction </B> 
+Autarcie ->  <B> Le fait de se suffir a ... </B> 
+Charte ->  <B> Reglement </B> 
+Concomitamment ->  <B> Simultanement </B> 
+Decence ->  <B> Respect des convenances </B> 
+Depredation ->  <B> Malversation </B> 
+Diligence ->  <B> Rapidite </B> 
+Echeancier ->  <B> Planning </B> 
+Empathie ->  <B> Compassion </B> 
+Essaimer ->  <B> Se repandre </B> 
+Fallacieux ->  <B> Trompeur </B> 
+Haranguer ->  <B> Discourir solennellement </B> 
+In extenso ->  <B> Integralement </B> 
+Injonction ->  <B> Ordre </B> 
+Legitimement ->  <B> A juste titre </B> 
+Mesailliance ->  <B> Mauvais mariage </B> 
+Nota bene ->  <B> Observation </B> 
+Ostensiblement ->  <B> De maniere remarquee </B> 
+Permissif ->  <B> Laxiste </B> 
+Preambule ->  <B> Introduction </B> 
+Proliferer ->  <B> Se multiplier </B> 
+Reciprocite ->  <B> Equilibre des echanges </B> 
+Servile ->  <B> Soumis </B> 
+Sommite ->  <B> Personnage de grande ... </B> 
+Superfetatoire ->  <B> Qui s'ajoute inutilement </B> 
+S'acquitter ->  <B> Payer </B> 
+Tributaire ->  <B> Dependant </B> 
+Volubile ->  <B> Qui parle beaucoup avec ... </B> 
+Erratique ->  <B> Instable </B> 
+Essor ->  <B> Croissance </B> 
+Federer ->  <B> Unir </B> 
+Hegemonie ->  <B> Suprematie </B> 
+Inanite ->  <B> Futilite </B> 
+Insidieusement ->  <B> Perfidement </B> 
+Lenifiant ->  <B> Apaisant </B> 
+Metaphore ->  <B> Comparaison </B> 
+Neologisme ->  <B> Mot nouveau </B> 
+Numerus clausus ->  <B> Quota </B> 
+Outrecuidance ->  <B> Arrogance </B> 
+Pernicieux ->  <B> Nuisible </B> 
+Polemiquer ->  <B> Entretenir la controverse </B> 
+Precaire ->  <B> Fragile </B> 
+Predictif ->  <B> Previsionnel </B> 
+Presomption ->  <B> Supposition infondee </B> 
+Prolixe ->  <B> Trop long dans ses discours </B> 
+Promulger ->  <B> Publier officiellement </B> 
+Prospective ->  <B> Reflexion sur l'avenir </B> 
+Quorum ->  <B> Presence minimale </B> 
+Recouvrement ->  <B> Perception de ce qui ... </B> 
+Recouvrer ->  <B> Reprendre </B> 
+Sagacite ->  <B> Perspicacite </B> 
+Sous-jacent ->  <B> Cache </B> 
+Spectre ->  <B> Ensemble large </B> 
+Superlatif ->  <B> Exagere </B> 
+Supputer ->  <B> Evaluer empiriquement </B> 
+S'affranchir ->  <B> Se liberer </B> 
+Truisme ->  <B> Banalite </B> 
+Ubuesque ->  <B> Grotesque </B> 
