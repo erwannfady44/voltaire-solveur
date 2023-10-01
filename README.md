@@ -8,13 +8,13 @@ Tutoriel pour installer : [How to Install NodeJS and NPM on Windows 10?](https:/
 ## Windows
 lancer la commande npm i
 
-#Utilisation : 
+# Utilisation : 
 lancer la commande npm start
 
 # Résultat
 S'il y a une faute le mot est affiché entre les balises <B> ... </B>
 
-#Exemple : 
+# Exemple : 
 À quelle heure pense-tu pouvoir nous rejoindres ?
 ## Réponse : 
 À quelle heure  <B> penses </B> -tu pouvoir nous rejoindre ?
