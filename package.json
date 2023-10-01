@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "fasttext": "^1.0.0",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.0",
+    "natural": "^6.2.0",
     "path": "^0.12.7",
     "prompt": "^1.2.1"
   }

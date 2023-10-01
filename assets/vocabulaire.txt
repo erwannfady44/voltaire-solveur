@@ -7,7 +7,7 @@ Antipode ->  <B> Oppose </B>
 Avaliser ->  <B> Cautionner </B> 
 Avanie ->  <B> Affront </B> 
 Circonscrire ->  <B> Delimiter </B> 
-Chronique ->  <B> Continuel ou intermittent </B> 
+Chronique ->  <B> Continuel ou intermittent </B> w
 Concourir a ->  <B> Contribuer </B> 
 Condescendant ->  <B> Hautain </B> 
 Declaratif ->  <B> Affirmatif </B> 

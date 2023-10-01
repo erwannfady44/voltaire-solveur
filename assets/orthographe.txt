@@ -626,11 +626,9 @@ Ce  <B> grill  </B>  à la sortie de la ville a beaucoup de succès.
 Ce  <B> langage  </B>  est confus, il faut revoir tout cela.
 Ce  <B> magazine  </B>  consacre une page entière à notre produit.
 Ce  <B> satyre  </B>  m'espionnait pendant que je prenais ma douche !
-Ce  <B> soi-disant  </B>  avocat n'avait en réalité aucun diplà´me.
 Ce  <B> soi-disant  </B>  avocat n'avait en réalité aucun diplôme.
 Ce  <B> soi-disant  </B>  expert en informatique n'y connaissait rien du tout.
 Ce  <B> soi-disant  </B>  héritier a été rapidement démasqué.
-Ce  <B> soi-disant  </B>  médecin n'avait pas le moindre diplà´me.
 Ce  <B> soi-disant  </B>  médecin n'avait pas le moindre diplôme.
 Ce  <B> soi-disant  </B>  romancier n'aurait pas écrit une seule ligne de ce livre.
 Ce  <B> travail  </B>  sera effectué en équipe.
@@ -4381,7 +4379,6 @@ Tiens, les  <B> Martin  </B>  ont déjà fermé leurs volets.
 Tiens, tiens, ton nez s'allonge, tu n'es  <B> rien de moins  </B>  qu'un menteur !
 Tintin serait-il le premier homme à avoir marché sur la  <B> Lune  </B>  ?
 Toi qui  <B> adores  </B>  l'orthographe et la grammaire, peux-tu m'aider ?
-Toi qui  <B> as  </B>  passé ce diplà´me, as-tu fait comme cela ?
 Toi qui  <B> as  </B>  passé ce diplôme, as-tu fait comme cela ?
 Toi qui  <B> habites  </B>  dans ce quartier, qu'en penses-tu ?
 Toi qui  <B> habites  </B>  dans ce quartier, qu'en penses-tu ?Les cambrioleurs ont laissé la maison  <B> sens dessus dessous </B> .
@@ -4723,3 +4720,5 @@ Y a-t-il bien 6 178  <B> milles  </B>  entre ces deux aéroports ?
 Éviter de finir  <B> invalide  </B>  fut l'obsession de toute sa vie.
 Êtes-vous certain que cette habitude n'est pas devenue une  <B> sujétion ? </B>
 Œufs durs, tomates, pain de mie : voilà les ingrédients d'un repas  <B> express  </B>  !
+Une hausse de  <B> 5 %  </B>  des tarifs d'électricité est prévue pour l'été.
+Le juré  <B> n° 7  </B> n'a pas voulu prendre part à la discussion.
