@@ -18,4 +18,4 @@ S'il y a une faute le mot est affiché entre les balises \<B> ... \</B>
 À quelle heure pense-tu pouvoir nous rejoindres ?
 
 ## Réponse : 
-À quelle heure  <B> penses </B> -tu pouvoir nous rejoindre ?
+À quelle heure  \<B> penses \</B> -tu pouvoir nous rejoindre ?
