@@ -12,7 +12,7 @@ lancer la commande npm i
 lancer la commande npm start
 
 # Résultat
-S'il y a une faute le mot est affiché entre les balises "<B>" ... "</B>"
+S'il y a une faute le mot est affiché entre les balises "\<B>" ... \</B>
 
 # Exemple : 
 À quelle heure pense-tu pouvoir nous rejoindres ?
