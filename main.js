@@ -16,6 +16,7 @@ let result = -1;
 
 // Fonction pour trouver la phrase la plus proche
 function findClosestSentence(reference) {
+    reference = reference.substring(0, reference.length - 1) + "\r.";
     let maxSimilarity = -1;
     let closestSentence = '';
     let i = -1;
@@ -28,7 +29,8 @@ function findClosestSentence(reference) {
             result = i;
         }
     });
-    if (maxSimilarity > 0.872)
+    console.log(maxSimilarity, closestSentence);
+    if (maxSimilarity > 0.87)
         return result;
     else
         return -1;
