@@ -6,6 +6,7 @@ const readline = require('readline');
 const corpus = fs.readFileSync('assets/orthographe_modifie.txt', 'utf8');
 const corpus2 = fs.readFileSync('assets/orthographe.txt', 'utf8');
 
+let objective = 0.85;
 
 // Séparer les phrases en utilisant un séparateur approprié (dans cet exemple, '\n')
 const sentences = corpus.split('\n');
@@ -33,10 +34,16 @@ function findClosestSentence(reference) {
         return -1;
 }
 
+
 // Boucle pour demander des phrases de référence
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
+});
+
+rl.question('Entrez un objectif : ', (reference) => {
+    objective = reference;
+    askReference();
 });
 
 function askReference() {
@@ -45,25 +52,29 @@ function askReference() {
             rl.close();
             return;
         }
-        const closestSentence = findClosestSentence(reference);
-        if (closestSentence === -1)
-            console.log("Pas de faute");
-        else {
-            let fault = false;
-            for (let i = 0; i < sentences[result].length - 1; i++) {
-                if (reference.charAt(i) !== sentences[result].charAt(i)) {
-                    console.log(sentences2[result])
-                    fault = true;
-                    break;
-                }
-
-            }
-            if(!fault)
+        if (Math.random() * 100 > objective) {
+            console.log("Ajouter une faute")
+        } else {
+            const closestSentence = findClosestSentence(reference);
+            if (closestSentence === -1)
                 console.log("Pas de faute");
-        }
+            else {
+                let fault = false;
+                for (let i = 0; i < sentences[result].length - 1; i++) {
+                    if (reference.charAt(i) !== sentences[result].charAt(i)) {
+                        console.log(sentences2[result])
+                        fault = true;
+                        break;
+                    }
 
+                }
+                if (!fault)
+                    console.log("Pas de faute");
+            }
+        }
         askReference();
+
     });
 }
 
-askReference();
+
