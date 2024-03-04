@@ -216,7 +216,7 @@ On n'y voit rien du tout, où est l'interrupteur ?
 On oublie tout et on recommence, d'accord ?
 On y pense, mais on préfère attendre encore un peu.
 Ouvre un peu plus la fenêtre, s'il te plaît.
-où est-ce qu' ai-je mis sa carte de visite ?
+Où ai-je mis sa carte de visite ?
 Parlez-lui-en dès que possible, il faut lui dire la vérité.
 Participer à ce débat l'intéresse .
 Passé cette date, ce produit ne doit plus être consommé.
@@ -547,7 +547,7 @@ C'est l'anniversaire de sa fille, aujourd'hui.
 C'est l'histoire la plus incroyable que j'aie jamais entendue !
 C'est la plus belle surprise que l'on m'ait jamais faite !
 C'est la plus grosse vague que j'aie jamais vue !
-C'est la ville où est-ce qu' j'ai fait mes études.
+C'est la ville où j'ai fait mes études.
 C'est le plus beau morceau qu'il ait jamais composé.
 C'est le plus beau poème qu'elle ait jamais écrit.
 C'est le plus gros diamant que l'on ait jamais découvert.
@@ -1782,7 +1782,7 @@ Il espérait que sa chemise serait sèche le lendemain matin, mais elle était e
 Il est bien sûr primordial de respecter les règles d'hygiène.
 Il est curieux de voir enfin le résultat.
 Il est allergique aux chats, c'est là que le bât blesse.
-Il est arrivé au moment où est-ce qu' nous nous y attendions le moins..
+Il est arrivé au moment où nous nous y attendions le moins..
 Il est conseillé de prendre ce médicament juste avant le coucher .
 Il est déjà 13 h 30, il ne faut pas qu'on tarde…
 Il est important que je sois sur un pied d'égalité avec lui.
@@ -2047,7 +2047,7 @@ Il était devant un dilemme et avait l'impression qu'on lui transperçait le cœ
 Il était devant un dilemme et se demandait ce qu'il devait faire.
 Il était devenu un personnage en vue .
 Il était en parfaite santé, son décès subit a été un choc pour ses proches.
-Il était incapable de travailler, dans l'état où est-ce qu' il était.
+Il était incapable de travailler, dans l'état où il était.
 Il était inquiet, or tout a marché comme sur des roulettes.
 Il était stupéfait : il n'en croyait pas ses yeux.
 Il était sûr d'avoir fait une bonne affaire, mais fut-ce vraiment le cas ?
@@ -2453,12 +2453,12 @@ Je fais souvent ce cauchemar : tout à coup je glisse et tombe dans le vide.
 Je fais tous les quiz des magazines : j'adore ça !
 Je faisais des cauchemars et j'étais en nage quand je me réveillais.
 Je file à la pharmacie et je reviens !
-Je file à la pharmacie et je reviens !Bon, où est-ce qu' ai-je bien pu mettre ce dossier ?
+Je file à la pharmacie et je reviens !Bon, où ai-je bien pu mettre ce dossier ?
 Je glisse toujours une paire de chaussettes dans ma valise, au cas où !
-Je glisse toujours une paire de chaussettes dans ma valise, au cas où est-ce qu' !
+Je glisse toujours une paire de chaussettes dans ma valise, au cas où !
 Je l'ai remercié d' avoir récupéré mon colis.
 Je l'ignorais jusqu'à maintenant.
-Je le cherche partout, savez-vous où est-ce qu' il est ?
+Je le cherche partout, savez-vous où il est ?
 Je le compte parmi mes amis depuis dix ans.
 Je le trouve très négligent , en ce moment. Que lui arrive-t-il ?
 Je leur annoncerai l'heureuse nouvelle quand nous irons les voir dimanche.
@@ -2496,7 +2496,7 @@ Je n'oublierais peut-être rien si je faisais une liste.
 Je n'accepte pas que tu m'agonisses d'injures !
 Je n'ai aucune preuve, mais en mon for intérieur je suis convaincu de sa culpabilité.
 Je n'ai cessé de bâiller pendant son discours, j'espère qu'il ne s'en est pas aperçu.
-Je n'ai pas compris où est-ce qu' ils voulaient en venir.
+Je n'ai pas compris où ils voulaient en venir.
 Je n'ai pas compris tout de suite ce que cela signifiait.
 Je n'ai pas compris : cet appartement, l'as-tu déjà visité ou vas-tu le visiter ?
 Je n'ai pas du tout apprécié qu'il déblatère ainsi contre mes amis.
@@ -2555,7 +2555,7 @@ Je ne sais pas ce qu'il a, depuis quelque temps il déblatère contre tout le mo
 Je ne sais pas combien de temps encore il compte vivre à nos dépens .
 Je ne sais pas comment il a fait pour se faire inviter.
 Je ne sais pas du tout où cela va nous mener.
-Je ne sais pas encore où est-ce qu' nous irons cet été.
+Je ne sais pas encore où nous irons cet été.
 Je ne sais pas où est-ce qu je vais poser ces cartons.
 Je ne sais pas si c'est de cela qu' il veut me parler.
 Je ne sais pas si j'ai vraiment envie de faire ce quiz .
@@ -3569,7 +3569,7 @@ Ne prenez pas de caféine si vous vous sentez déjà nerveux !
 Ne reste pas nu-tête sous ce soleil de plomb !
 Ne t'inquiète pas, je faisais souvent cette erreur moi aussi !
 Ne tardez pas à venir , tout le monde est là.
-Ne te souviens-tu pas de cet hiver où est-ce qu' il a fait si froid ?
+Ne te souviens-tu pas de cet hiver où il a fait si froid ?
 Neigera-t-il pour les fêtes ? Avec ce ciel bleu, ce n'est rien moins que certain.
 Non, je n'aime pas cette tenue : je trouve que les couleurs détonnent .
 Nos exigences sont sans doute trop nombreuses.
@@ -3776,7 +3776,7 @@ Nous pensions dîner dans ce restaurant, mais ledit établissement a fermé il y
 Nous pourrons célébrer , en 2056, le 300<SUP>e</SUP> anniversaire de la naissance de Mozart.
 Nous pourrons en reparler dans six mois, après que vous aurez remboursé cette somme.
 Nous pourrons vous donner une réponse rapidement, après que vous aurez rempli ce questionnaire.
-Nous pourrons y aller un jour où est-ce qu' tu auras un peu de temps.
+Nous pourrons y aller un jour où tu auras un peu de temps.
 Nous pouvons mettre encore deux chaises ici, voire trois.
 Nous préparons une saynète pour son anniversaire.
 Nous rangeons les produits d'entretien dans ce placard.
