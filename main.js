@@ -32,8 +32,8 @@ function findClosestSentence(reference) {
             result = i;
         }
     });
-    console.log(maxSimilarity, closestSentence);
-    if (maxSimilarity > 0.86)
+    //console.log(maxSimilarity, closestSentence);
+    if (maxSimilarity > 0.852)
         return result;
     else
         return -1;
