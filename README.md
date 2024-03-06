@@ -9,7 +9,7 @@ Tutoriel pour installer : [How to Install NodeJS and NPM on Windows 10?](https:/
 lancer la commande npm i
 
 # Utilisation : 
-lancer la commande npm start
+lancer la commande node main.js
 
 # Résultat
 S'il y a une faute le mot est affiché entre les balises \<B> ... \</B>
